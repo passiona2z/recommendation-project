@@ -1,1 +1,1 @@
-export const baseUrl = "//rsport.click";
+export const baseUrl = "https://rsport.click";
